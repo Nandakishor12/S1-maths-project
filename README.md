@@ -1,1 +1,2 @@
-# S1-maths-project
+# S1LoanPrediction
+S1 maths project
